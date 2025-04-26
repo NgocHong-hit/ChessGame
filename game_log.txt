@@ -1,0 +1,10 @@
+SessionID: 9555081c-8c87-4917-a88a-9d0b00c41e47, Player1: hongngoc123@gmail.com, Player2: ngochong040113@gmail.com, Start: 1745074309713, End: 1745074356181, Result: WIN_P2
+SessionID: f613b6d0-e076-4dd7-9edb-93f38cd24339, Player1: ngochong040113@gmail.com, Player2: hongngoc123@gmail.com, Start: 1745074623628, End: 1745074673585, Result: WIN_P2
+SessionID: e740ba30-b545-4586-b5bd-8e109a568318, Player1: hongngoc123@gmail.com, Player2: ngochong040113@gmail.com, Start: 1745075644105, End: 1745075680375, Result: WIN_P2
+SessionID: 571f6498-0327-4078-84b1-e3c056350a11, Player1: ngochong040113@gmail.com, Player2: hongngoc123@gmail.com, Start: 1745076010600, End: 1745076044198, Result: WIN_P2
+SessionID: 569dacd7-bf20-4eff-b0f8-9bf2a61abaf6, Player1: ngochong040113@gmail.com, Player2: hongngoc123@gmail.com, Start: 1745082525033, End: 1745082584195, Result: WIN_P2
+SessionID: 3aad6ecf-ce97-4993-b7b4-bfe9e5c16a7c, Player1: hongngoc123@gmail.com, Player2: ngochong040113@gmail.com, Start: 1745083712360, End: 1745083759849, Result: WIN_P2
+SessionID: b4e70b2c-4982-4a5c-b568-381db185a3bd, Player1: ngochong040113@gmail.com, Player2: hongngoc123@gmail.com, Start: 1745084148073, End: 1745084189068, Result: WIN_P1
+SessionID: 8de6ad35-2692-419d-959b-8a8061bb0ef5, Player1: ngochong040113@gmail.com, Player2: hongngoc123@gmail.com, Start: 1745084511620, End: 1745084557378, Result: WIN_P1
+SessionID: b39f8cf2-b0d4-43b1-8fd0-1a701a5324b6, Player1: ngochong040113@gmail.com, Player2: hongngoc123@gmail.com, Start: 1745085075996, End: 1745085122743, Result: WIN_P1
+SessionID: 1f817f4c-7270-406c-9c59-fc7bd895f669, Player1: hongngoc123@gmail.com, Player2: ngochong040113@gmail.com, Start: 1745117946843, End: 1745117989797, Result: WIN_P1
